@@ -1,12 +1,16 @@
-# Análisis de Vehículos Breidy Auto World
+# Análisis de Vehículos 
 
-Este repositorio contiene análisis de ventas y datos de vehículos de Breidy Auto World.
+Este repositorio contiene análisis de ventas y datos de vehículos.
 
 ## Gráficos Generados
 
-- **Gráfico de Barras**: Ventas de vehículos por marca.
-- **Gráfico Lineal**: Kilometraje de vehículos por año.
-- **Gráfico de Pastel**: Porcentaje de vehículos más vendidos por marca.
+- Gráfico de Barras: Ventas de vehículos por marca.
+- Gráfico Lineal: Kilometraje de vehículos por año.
+- Gráfico de Pastel: Porcentaje de vehículos más vendidos por marca.
+
+## Archivos Incluidos
+
+- Vehiculos1.xlsx: Archivo de Excel con datos detallados de ventas de vehículos.
 
 ## Requisitos
 
